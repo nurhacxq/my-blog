@@ -1,0 +1,4 @@
+#to prevent from adding Node modules to the Git Repository
+
+node_modules
+
